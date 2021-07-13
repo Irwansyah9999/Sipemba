@@ -1,0 +1,117 @@
+/* icon */
+.ic{
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.ic-user-male{
+    background: url('../img/icon/user-male.ico') no-repeat center;
+}
+
+.ic-teacher{
+    background: url('../img/icon/teacher.ico') no-repeat center;
+}
+
+.ic-calender{
+    background: url('../img/icon/calender.ico') no-repeat center;
+}
+
+.ic-book{
+    background: url('../img/icon/book.ico') no-repeat center;
+}
+
+.ic-history{
+    background: url('../img/icon/history.ico') no-repeat center;
+}
+
+.ic-plan{
+    background: url('../img/icon/plan.ico') no-repeat center;
+}
+
+.ic-setting{
+    background: url('../img/icon/setting.ico') no-repeat center;
+}
+
+.ic-close{
+    background: url('../img/icon/close-white.ico') no-repeat center;
+}
+
+.ic-down{
+    background: url('../img/icon/down.png') no-repeat center;
+}
+
+.ic-search{
+    background: url('../img/icon/search.ico') no-repeat center;
+}
+/* dll */
+
+#profile{
+	width: 100%;
+	height: 75px;
+
+	margin: 30% 0;
+}
+
+#sub-profile{
+	width: 65%;
+	height: 50px;
+	background: url('../img/icon/normal/png/48x48/User.png') no-repeat top center;
+}
+
+#sorting{
+    display: none;
+    padding: 5px;
+}
+
+#sorting > ol{
+    list-style-type: none;
+}
+
+#sorting a{
+    text-decoration: none;
+    color: black;
+}
+
+#bx-cari{
+	display: none;
+}
+
+#bx-barang{
+	display: none;
+}
+
+#top-header{
+    box-shadow: 1px 0 2px 0 gray;
+}
+
+header{
+    height: 300px;
+}
+
+#header{
+    background: url('../img/Pengiriman 2.jpg') no-repeat center;
+    background-size: cover;
+}
+
+#cek-point{
+    background: url('../img/icon.png') no-repeat center;
+    background-size: cover;
+    height: 250px;
+}
+
+#img-paper{
+    background: url('../img/Pengiriman\ 1.jpg') no-repeat center;
+    background-size: cover;
+    height: 70px;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(238, 157, 51);
+    height: 300px;
+}
+
+footer div{
+    width: 25%;
+    padding: 20px;
+}
